@@ -14,6 +14,7 @@
 
 ## Penjelasan Program
 - Bahasa pemrograman yang digunakan: C
+
 a. Fitur utama
  - Input data nilai :
    1. Input data pemasukan
@@ -28,7 +29,7 @@ a. Fitur utama
    1. Menampilkan laporan keuangan total hasil dari pemasukan dan pengeluaran
    2. Menampilkan total saldo saldo saat ini
    
-b. Konsep yang digunakan:
+b. Konsep yang digunakan
  - Input/output :
    1. Input
       Program menggunakan variabel pemasukan, pengeluaran, dan saldo yang nantinya akan digunakan untuk menyimpan data keuangan. Kemudian ada variabel pilihan yang nanatinya akan menyimpan pilihan opsi menu yang ada pada program. Contoh penggunaan input dalam program tersebut ada pada bagian memasukkan jumlah nilai transaksi yang ingin dimasukkan entah pada bagian pemasukan maupun pengeluaran.
