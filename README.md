@@ -10,9 +10,7 @@
 - Program Studi: Pendidikan Sistem dan Teknologi Informasi
 
 ## Permintaan Program
-> "[Tuliskan permintaan dari kakak tingkat secara ringkas.]"
-Contoh:
-> "Kakak ingin dibuatkan program kalkulator IPK sederhana."
+  "Kakak ingin dibuatkan program pemasukan dan pengeluaran keuangan sederhana."
 
 ## Penjelasan Program
 - Bahasa pemrograman yang digunakan: C
