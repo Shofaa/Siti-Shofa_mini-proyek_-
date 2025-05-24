@@ -29,6 +29,7 @@ a. Fitur utama
    1. Menampilkan laporan keuangan total hasil dari pemasukan dan pengeluaran
    2. Menampilkan total saldo saldo saat ini
    
+
 b. Konsep yang digunakan
  - Input/output :
    1. Input
