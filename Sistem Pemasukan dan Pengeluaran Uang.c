@@ -10,7 +10,7 @@ int main() {
 
     // Deklarasi 
     float pemasukan = 0, pengeluaran = 0, jumlahSaldo = 0; // Menampilkan total pemasukan, total pengeluaran, dan total saldo saat ini
-    int pilihan;
+    int pilihan; // Menampilkan pilihan menu 
     
     printf("Program Laporan Keuangan\n"); // Judul sistem pemrograman ini, yaitu "Program Laporan Keuangan"
     
