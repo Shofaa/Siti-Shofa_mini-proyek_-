@@ -58,5 +58,6 @@ b. Konsep yang digunakan
 
 ## Link Video Demo
 https://youtu.be/dS3lcgEGr9Y?si=1s3QIrybIU92bLrr
+(Maaf sebelumnya, untuk durasi video saya yaitu 5 menit 50 detik. Sedangkan untuk maksimal videonya yaitu 5 menit saja. Oleh karena itu, saya memohon maaf sebelumnya kepada ibu karena durasinya tidak sesuai dengan ketentuan yaitu lebih 50 detik).
 
 
