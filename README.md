@@ -57,3 +57,6 @@ b. Konsep yang digunakan
   Dalam program tersebut, saya tidak menambahkan array untuk menyelesaikan permasalahan terkait dengan sistem pemasukan dan pengeluaran keuangan. Namun saya sudah mendapatkan sebuah konsep dari program ini jika menambahkan array, yaitu menambahkan float riwayat[100] dalam memudahkan laporan agar lebih terstruktur. Kemudian contoh lainnya dalam menentukan sebuah batas maksimal pada transaksi pemasukan maupun pengeluaran.  
 
 ## Link Video Demo
+https://youtu.be/dS3lcgEGr9Y?si=1s3QIrybIU92bLrr
+
+
